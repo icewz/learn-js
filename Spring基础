@@ -1,0 +1,20 @@
+2019-4-15 23:22:58再学Spring
+1.Spring 环境
+spring4 最新版
+http://maven.springframework.org/release/org/springframework/spring/4
+
+.3.9.RELEASE/
+5个重要jar包
+spring-aop.jar
+spring-beans.jar
+spring-context.jar
+spring-core.jar
+spring-expression.jar
+---以及三方提供的日志jar
+commons-logging.jar
+https://mvnrepository.com/artifact/commons-logging/commons-
+
+logging/1.1.1
+
+2.编写配置文件
+插件spring tool 
